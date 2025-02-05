@@ -45,7 +45,6 @@ section{
 .project-hero {
     background: url('../assets/images/abstract-background.webp') no-repeat center;
     background-size: cover; /* Membuat gambar memenuhi area */
-    background-attachment: fixed; /* Untuk efek paralaks, opsional */
     width: 100%; /* Memastikan elemen memenuhi lebar */
     height: 100vh; /* Memastikan elemen memenuhi tinggi layar */
 }
