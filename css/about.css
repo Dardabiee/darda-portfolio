@@ -342,7 +342,12 @@ html, body{
     .menu-copy p {
         font-size: 10px;
     }
-
+    .buttons{
+        display: flex;
+    }
+    .project-hero h1{
+        font-size: 10px;
+    }
     .link a {
         font-size: 20px;
     }
